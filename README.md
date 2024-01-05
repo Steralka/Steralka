@@ -12,7 +12,8 @@
 
 - **Учебные Материалы:** Собрание полезных ресурсов, включая лекции, книги и онлайн-курсы.
 - **Проекты и Задачи:** Различные проекты и задачи для практики и улучшения ваших навыков.
-- **Codewars Профиль:** Посмотрите мои достижения и решения задач на [Codewars](https://www.codewars.com/users/Steralka/badges/large).
+- **Codewars Профиль:**
+[![codewars](https://www.codewars.com/users/Steralka/badges/large)](https://www.codewars.com/users/Steralka)
 
 ## Связь Со Мной
 
