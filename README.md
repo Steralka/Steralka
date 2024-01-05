@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ляя+я+крч+пропил+свой+профиль+гитхаба)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%33dbb1&lines=Ля+я+крч+пропил+свой+профиль+гитхаба)](https://git.io/typing-svg)
